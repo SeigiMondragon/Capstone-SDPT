@@ -6,7 +6,9 @@ function App() {
 
   return (
     <>
-      <div>SDPT</div>
+    <div>
+      SDPT
+    </div>
     </>
   )
 }
